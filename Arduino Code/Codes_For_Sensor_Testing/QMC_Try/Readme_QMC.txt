@@ -1,0 +1,1 @@
+This code is for testing the QMC5883L. It calculates the X, Y and Z axis values of the Magnetometer.

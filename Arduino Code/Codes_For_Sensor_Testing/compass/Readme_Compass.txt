@@ -1,0 +1,1 @@
+This code is used to calculate the heading of the device (Compass Heading)

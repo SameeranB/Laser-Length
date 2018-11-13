@@ -1,0 +1,1 @@
+This code is to test the VL53L0X Time of Flight Sensor. It gives the distance in Millimeters.
